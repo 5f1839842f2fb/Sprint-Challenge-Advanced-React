@@ -99,6 +99,6 @@ exports.data = [
   { name: "Lina Magull", country: "Germany", searches: 1 },
   { name: "Karen Bardsley", country: "England", searches: 1 },
   { name: "Jordyn Huitema", country: "Canada", searches: 1 },
-  { name: "Tierna Davidson", country: "United States", searches: 1 },
+  { name: "Tierna Davidson", country: "United States", searches: 1 }
 ];
 
